@@ -1,0 +1,35 @@
+title: "Hi, I'm [your name]"
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for your interest in the project! Tell us a bit about yourself.
+  - type: input
+    id: field
+    attributes:
+      label: Field and role
+      placeholder: Data scientist at a research lab
+    validations:
+      required: true
+  - type: textarea
+    id: skills
+    attributes:
+      label: Skills you could bring
+      description: Methods, tools, languages, legal systems you know
+    validations:
+      required: true
+  - type: textarea
+    id: interest
+    attributes:
+      label: What interests you in this project?
+  - type: dropdown
+    id: availability
+    attributes:
+      label: Availability
+      options:
+        - A few hours a month
+        - A few hours a week
+        - Open to a larger role
+  - type: input
+    id: contact
+    attributes:
+      label: Website, LinkedIn or email (optional)
