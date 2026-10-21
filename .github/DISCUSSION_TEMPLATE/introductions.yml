@@ -29,6 +29,8 @@ body:
         - A few hours a month
         - A few hours a week
         - Open to a larger role
+    validations:
+      required: true
   - type: input
     id: contact
     attributes:
