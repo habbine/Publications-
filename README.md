@@ -17,12 +17,12 @@ Avocate · Paris and New York bars · Guest lecturer, Université Paris Cité an
 
 ### 📚 At a glance
 
-| 9 papers | 2021 – 2025 | English · French | 5 research themes |
+| 10 papers | 2021 – 2025 | English · French | 5 research themes |
 |:---:|:---:|:---:|:---:|
 
 **Jump to:** [🤖 Technology](#tech) · [🌍 Environment](#environment) · [🎮 Esport](#esport) · [💼 Tax & trusts](#tax) · [⚖️ Access to justice](#justice) · [🤝 Collaborate](#collaborate)
 
-> **How to read this page:** click a paper's title to open the full PDF. The **SSRN** badge leads to the official version, with citation details.
+> **How to read this page:** click a paper's title to open the full PDF. The **SSRN** and **journal** badges lead to the official version, with citation details.
 
 ---
 
@@ -31,7 +31,7 @@ Avocate · Paris and New York bars · Guest lecturer, Université Paris Cité an
 ## 🤖 Technology & digital regulation
 
 #### [Decentralisation and Digital Transformation: User e-Consciousness and Accountability of Intermediators](2022-decentralisation-digital-transformation.pdf)
-![2022](https://img.shields.io/badge/2022-lightgrey?style=flat-square) ![EN](https://img.shields.io/badge/EN-lightgrey?style=flat-square) [![SSRN](https://img.shields.io/badge/SSRN-4256243-1F4E79?style=flat-square)](https://ssrn.com/abstract=4256243) · with Maciej Bernard Plotka
+![2022](https://img.shields.io/badge/2022-lightgrey?style=flat-square) ![EN](https://img.shields.io/badge/EN-lightgrey?style=flat-square) [![SSRN](https://img.shields.io/badge/SSRN-4256243-1F4E79?style=flat-square)](https://ssrn.com/abstract=4256243) ![Shortlisted](https://img.shields.io/badge/%F0%9F%8F%85%20Shortlisted-ELI%20Young%20Lawyers%20Award%202022-B8860B?style=flat-square) · with Maciej Bernard Plotka
 
 Rather than one-size-fits-all rules for digital markets, this paper proposes user self-risk-assessment habits and incentives for intermediaries to act transparently.
 
@@ -50,6 +50,11 @@ A bilingual fable about regulators racing to keep up with blockchain, AI and the
 ![2025](https://img.shields.io/badge/2025-lightgrey?style=flat-square) ![EN](https://img.shields.io/badge/EN-lightgrey?style=flat-square)
 
 Why fragmented environmental rules let polluters shop for the most lenient jurisdiction, and how a common accountability principle could close the gap.
+
+#### [Greening Consumer Welfare: Towards a New Perspective on Consumer Protection](https://indret.com/wp-content/uploads/2023/04/1764.pdf)
+![2023](https://img.shields.io/badge/2023-lightgrey?style=flat-square) ![EN](https://img.shields.io/badge/EN-lightgrey?style=flat-square) [![InDret](https://img.shields.io/badge/InDret-2.23%20%C2%B7%20pp.%20569--588-8B1A1A?style=flat-square)](https://indret.com/greening-consumer-welfare-towards-a-new-perspective-on-consumer-protection/) ![Shortlisted](https://img.shields.io/badge/%F0%9F%8F%85%20Shortlisted-UPF%20conference%202022-B8860B?style=flat-square)
+
+How greenwashing harms consumers in green markets, and why protecting them calls for reform beyond traditional consumer law, from stronger reporting duties to the extraterritorial reach of EU law.
 
 #### [Global Environmental Impact & Efficiency Valuation Model: A Practical Legal & Compliance Tool Through Mathematical Modeling and Statistical Analysis](2024-environmental-impact-efficiency-valuation-model.pdf.pdf)
 ![2024](https://img.shields.io/badge/2024-lightgrey?style=flat-square) ![EN](https://img.shields.io/badge/EN-lightgrey?style=flat-square) ![Quantitative](https://img.shields.io/badge/Quantitative%20model-2E7D32?style=flat-square)
