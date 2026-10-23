@@ -1,0 +1,10 @@
+# Lint settings for a GitHub profile-style README
+# (centred HTML block, shields.io badges, emoji section headings).
+config:
+  default: true
+  MD001: false   # paper titles use #### for visual size, under ## sections
+  MD013: false   # badge lines and links are naturally longer than 80 chars
+  MD033: false   # <div align="center"> and <a id> anchors are intentional
+  MD036: false   # bold tagline under the name is not meant as a heading
+  MD041: false   # file opens with the centring <div>, not a heading
+  MD060: false   # compact table pipes are fine

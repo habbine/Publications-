@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Get repository files
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Check Markdown formatting
         uses: DavidAnson/markdownlint-cli2-action@v24
